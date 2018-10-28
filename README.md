@@ -1,7 +1,7 @@
 # DatatonBC_2018
 Dataton-BC 2018. Transaction Classification/Clasificación de Transacciones.
 
-#### Equipo: ***Eafit***__ting__
+#### Equipo: Ea__*fitting*__
 ##### Integrantes:
 - Alejandro Murillo G.
 - Juan Pablo Vidal C.
