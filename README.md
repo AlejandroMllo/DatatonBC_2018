@@ -76,6 +76,18 @@ tabla resume algunos resultados:
 | 0     | 2  | 0   | 0    | 0  | 0 | 2    | 3     | 1    | 4  | 0   | 1    | 48   | 43    | 0   | 0    | 0     | 161 | 0     |
 | 0     | 1  | 0   | 0    | 0  | 0 | 0    | 6     | 0    | 0  | 0   | 0    | 0    | 0     | 0   | 0    | 0     | 0   | 27371 |
 
+###### Muestra Datos No Etiquetados
+Tomamos una muestra de alrededor del 10% de los datos no etiquetados. Haciendo uso del kNN entrenado clasificamos esos datos y obtuvimos los siguientes resultados:
+
+**Número Transacciones por Categoria**
+
+![numero_transacciones](https://github.com/AlejandroMllo/DatatonBC_2018/blob/master/Supporting_Files/kNN_TransaccionPSE.jpeg?raw=true)
+
+
+**Valor Transacciones por Categoria**
+
+![valor_transacciones](https://github.com/AlejandroMllo/DatatonBC_2018/blob/master/Supporting_Files/kNN_ValorTransaccionesPSE.jpeg?raw=true)
+
 
 **En [Additional_Models](https://github.com/AlejandroMllo/DatatonBC_2018/tree/master/Additional_Models) puede encontrar unos notebook con los _prometedores_ resultados al tratar de clasificar con otros modelos.**  
 
