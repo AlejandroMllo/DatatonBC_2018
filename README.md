@@ -41,19 +41,19 @@ tabla resume algunos resultados:
         1. 'LABELED_DATA_TRXPSE_BC.csv'
         1. 'UNLABELED_DATA_TRXPSE_BC.csv'
 2. Carga de datos:
-    2. Se hace uso de la clase [LoadData.py](https://github.com/AlejandroMllo/DatatonBC_2018/blob/master/Transaction_Classifier/LoadData.py).
-    2. Se reemplaza el atributo *__dataset_path* con el path de 'LABELED_DATA_TRXPSE_BC.csv'; y
+    1. Se hace uso de la clase [LoadData.py](https://github.com/AlejandroMllo/DatatonBC_2018/blob/master/Transaction_Classifier/LoadData.py).
+    1. Se reemplaza el atributo *__dataset_path* con el path de 'LABELED_DATA_TRXPSE_BC.csv'; y
        en *x_path* y *y_path* los paths de 'X_DATA_TRXPSE_BC.csv' y 'Y_DATA_TRXPSE_BC.csv', respectivamente.
-    2. Si es la primera vez que se usa, es necesario hacer el parámetro de inicialización __load_unprocessed_data=True__.
+    1. Si es la primera vez que se usa, es necesario hacer el parámetro de inicialización __load_unprocessed_data=True__.
        Esto guarda los datos procesados en dos archivos ('X_DATA_TRXPSE_BC.csv', 'Y_DATA_TRXPSE_BC.csv'),
        que serán usados para crear los sets de *Entrenamiento*, *Validación* y *Prueba*.
        En caso contrario, una vez instanciado *LoadData* se llama el método *load_processed_data()*, que cargará
        'X_DATA_TRXPSE_BC.csv' y 'Y_DATA_TRXPSE_BC.csv' y creará los data sets necesarios.
 3. Clasificación:
-    3. Se hace uso de la clase [TransactionClassifier.py](https://github.com/AlejandroMllo/DatatonBC_2018/blob/master/Transaction_Classifier/TransactionClassifier.py).
-    3. Una vez instanciado se llama el método *train()* y se le pasan los datos
+    1. Se hace uso de la clase [TransactionClassifier.py](https://github.com/AlejandroMllo/DatatonBC_2018/blob/master/Transaction_Classifier/TransactionClassifier.py).
+    1. Una vez instanciado se llama el método *train()* y se le pasan los datos
        cargados en el paso anterior.
-    3. Use de acuerdo a su necesidad los métodos *test()*, *predict()*, *get_confusion_matrix()*,
+    1. Use de acuerdo a su necesidad los métodos *test()*, *predict()*, *get_confusion_matrix()*,
        *save_model()* y *load_model()*.
        
 ----------------------------------
