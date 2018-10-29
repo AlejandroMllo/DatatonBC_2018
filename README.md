@@ -11,8 +11,8 @@ podrá detectar el destino del dinero.
 ### Equipo: Eafitting
 ##### Integrantes:
 - Alejandro Murillo G.
-- Juan Pablo Vidal C.
 - Henry Velasco V.
+- Juan Pablo Vidal C.
 
 -----------------------------
 
