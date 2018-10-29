@@ -79,14 +79,17 @@ tabla resume algunos resultados:
 ###### Muestra Datos No Etiquetados
 Tomamos una muestra de alrededor del 10% de los datos no etiquetados. Haciendo uso del kNN entrenado clasificamos esos datos y obtuvimos los siguientes resultados:
 
-**Número Transacciones por Categoria**
+**Número Transacciones por Categoría**
 
 ![numero_transacciones](https://github.com/AlejandroMllo/DatatonBC_2018/blob/master/Supporting_Files/kNN_TransaccionPSE.jpeg?raw=true)
 
+La mayoría de las transacciones ocurren en las categorías __Valor agregado__, __Tecnología y Comunicaciones__, __Servicios Bancarios__, __Administración central__ y __Electricidad__.
 
-**Valor Transacciones por Categoria**
+**Valor Transacciones por Categoría**
 
 ![valor_transacciones](https://github.com/AlejandroMllo/DatatonBC_2018/blob/master/Supporting_Files/kNN_ValorTransaccionesPSE.jpeg?raw=true)
+
+Alrededor del 80% del dinero es usado en transacciones de las categorías __Servicios Bancarios__, __Tecnología__ y __Comunicaciones__.
 
 
 **En [Additional_Models](https://github.com/AlejandroMllo/DatatonBC_2018/tree/master/Additional_Models) puede encontrar unos notebook con los _prometedores_ resultados al tratar de clasificar con otros modelos.**  
