@@ -1,0 +1,20 @@
+1. Servicios bancarios = bancos = 1040805
+2. Gobierno = municipios, departamentos = 95587
+3. Valor agregado = valor agregado = 547358
+4. Administración central = administración central = 331600
+5. Educación = establecimientos educativos = 39595
+6. Electricidad = electricidad = 442402
+7. Tecnología y comunicaciones = telefonia fija, procesamiento de datos, medios, programación = 635403
+8. Construcción = obras de infraestructura, edificaciones, fabricación de cemento, materiales de construcción y maquinaría = 23154
+9. Servicios sociales = cajas de compensación, culturales y otros servicios sociales, fondos de pensiones = 40947
+10. Servicios a empresas = servicios a empresas = 34508
+11. Transporte = transporte terrestre, transporte aereo = 5448
+12. Salud = eps y salud prepagada (salud), ips, comercio al por menor de productos farmacéuticos y medicinales, actividades de hospitales y clínicas, fabricación de productos farmacéuticos, medicinales, actividades de la práctica médica = 12311 
+13. Comercio = comercio de variedades y vestuario, comercio al por mayor de computadores, automotores, distribuidores productos consumo masivo, comercio al por menor de artículos de ferretería, comercio de partes, fabricación de partes y piezas de madera, equipos periféricos, productos ceramicos, productos de vidrio, confección de artículos con materiales textiles, textiles, muebles y computadores, comercio al por mayor de productos textiles, comercio al por menor de electrodomésticos y gasodomésticos de uso doméstico, comercio de motocicletas y de sus partes, comercio al por mayor de equipo, productos metalicos, comercio de repuestos, madera y muebles, materiales y artículos de papelería y escritorio, aseo, otros manufactura, plastico, agroquimicos, fabricación de jabones y detergentes, confección de prendas de vestir = 4509
+14. Servicios financieros = otros servicios financieros, otras actividades de servicio financiero, companías de financiamiento comercial, fideicomisos = 10939
+15. Servicios a personas = servicios a personas, personas = 28035
+16. Seguros = seguros = 8353
+17. Comida = alimentos concentrados, líquidos, con surtido compuesto principalmente por productos diferentes de alimentos (víveres en general), aliños y salsas, comercio al por menor en establecimientos no especializados con surtido compuesto principalmente por alimentos, arroz, elaboración de bebidas no alcohólicas = 1648
+18. DEFAULT LABEL = DEFAULT_LABEL = 19889
+19. Turismo = turismo y agencias de turismo = 940
+20. Otros = otras actividades mineras, imprentas y edicion, edición de periódicos, otras actividades profesionales, comisionistas de bolsa = 910
